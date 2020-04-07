@@ -20,3 +20,4 @@ The fourteen questions are:
 12. How would you expose an application running in a Kubernetes cluster to the outside world?
 13. What tools can be used to monitor your cluster and your applications?
 14. Kubernetes APIs have been described as both imperative and declarative. What does this mean, and why are declarative APIs so useful in DevOps?
+Questions found in [this](https://enterprisersproject.com/article/2020/3/14-kubernetes-interview-questions) article.
